@@ -3,6 +3,8 @@
 #script for
 #
 #autor:clecya ariaty, fabricio
+#vanessa aqui.
+
 echo "iniciando script"
 cd /home/aluno/Downloads/imagens-livros
 for imagem in *.jpg
