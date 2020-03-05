@@ -3,8 +3,7 @@
 #script for
 #
 #autor:clecya ariaty
-
-
+echo "iniciando script"
 cd /home/aluno/Downloads/imagens-livros
 for imagem in *.jpg
 do
@@ -13,4 +12,4 @@ do
 	convert $imagem  $img_sem_ext.png
 
 done
-
+echo "finalizando script"
