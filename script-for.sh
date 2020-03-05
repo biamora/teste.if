@@ -2,7 +2,7 @@
 #este script é para conversao de imagens
 #script for
 #
-#autor:clecya ariaty
+#autor:clecya ariaty, fabricio
 echo "iniciando script"
 cd /home/aluno/Downloads/imagens-livros
 for imagem in *.jpg
